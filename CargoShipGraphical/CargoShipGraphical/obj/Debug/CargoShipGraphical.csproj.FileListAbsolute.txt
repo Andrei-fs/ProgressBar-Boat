@@ -1,0 +1,10 @@
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\bin\Debug\CargoShipGraphical.exe.config
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\bin\Debug\CargoShipGraphical.exe
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\bin\Debug\CargoShipGraphical.pdb
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.Form1.resources
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.exe
+C:\Users\Andrei\Desktop\Sketches\CargoShipGraphical\CargoShipGraphical\obj\Debug\CargoShipGraphical.pdb
